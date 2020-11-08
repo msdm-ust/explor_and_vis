@@ -1,4 +1,4 @@
-# Project V - Data Exploration and Visualization
+# Data Exploration and Visualization
 ![Proj](https://img.shields.io/badge/proj-wip-yellowgreen.svg)
 
 ## 1. Data Exploration
